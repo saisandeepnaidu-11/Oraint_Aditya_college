@@ -321,4 +321,4 @@ For issues, questions, or suggestions:
 
 **NeuralFit** - Your AI-powered path to fitness excellence! 💪
 
-Made with ❤️ by Aditya Sharma
+Made with ❤️ by sai
